@@ -1,8 +1,8 @@
 # Piani
 
 ## Mercoledi
-- [ ] Studi C# (classi, interfacсe)
-- [ ] Studi Formi
+- [X] Studi C# (classi, interfacсe)
+- [X] Studi Formi
 - [ ] Studi gramatica del l'italiano (Averbi di tempo)
 
 ## Gioverdi
