@@ -3,7 +3,6 @@
 ## Mercoledi
 - [X] Studi C# (classi, interfacсe)
 - [X] Studi Formi
-- [ ] Studi gramatica del l'italiano (Averbi di tempo)
 
 ## Gioverdi
 - [ ] Studi internet protocoli
@@ -16,10 +15,11 @@
 - [ ] Fai compiti di laboratorio per Reti Internet
 
 ## Sabato
-- [ ] Studi gramatica del l'italiano (devo, volio, ...)
 - [ ] Studi C# (delegati, eventi)
 - [ ] Fai startapi
+- [ ] Studi gramatica del l'italiano (Averbi di tempo)
 
 ## Domenica
 - [ ] Fai ombre in applicazione del computer graphica
 - [ ] Studi JavaScript 
+- [ ] Studi gramatica del l'italiano (devo, volio, ...)
