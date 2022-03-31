@@ -5,8 +5,6 @@
 - [X] Studi Formi
 
 ## Gioverdi
-- [ ] Studi internet protocoli
-- [ ] Fai compiti di laboratorio per MAPZ
 - [X] Studi ricerca di operazioni (cosa io non ho studiato)
 
 ## Venerdi
