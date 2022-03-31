@@ -7,7 +7,7 @@
 ## Gioverdi
 - [ ] Studi internet protocoli
 - [ ] Fai compiti di laboratorio per MAPZ
-- [ ] Studi ricerca di operazioni (cosa io non ho studiato)
+- [X] Studi ricerca di operazioni (cosa io non ho studiato)
 
 ## Venerdi
 - [ ] Fai compiti di laboratorio per ricerca di operazioni
