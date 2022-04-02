@@ -8,7 +8,7 @@
 - [X] Impari ricerca di operazioni (cosa io non ho studiato)
 
 ## Venerdi
-- [ ] Fai compiti di laboratorio per ricerca di operazioni
+- [X] Fai compiti di laboratorio per ricerca di operazioni
 - [ ] Fai compiti di laboratorio per programmazione su L'Internet
 - [ ] Impari teoria per Reti Internet
 
