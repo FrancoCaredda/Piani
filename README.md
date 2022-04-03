@@ -7,7 +7,6 @@
 - [ ] Fai compiti di laboratorio del modellazione e analizi di software
 
 ## Martedi
-- [ ] 
 
 ## Mercoledi
 
