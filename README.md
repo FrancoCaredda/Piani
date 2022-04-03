@@ -1,23 +1,20 @@
 # Piani
 
+## Lunerdi
+- [ ] Impari teoria del reti di computeri
+- [ ] Fai compiti di laboratorio del reti di computeri
+- [ ] Fai rapporto per ricerca di operazioni
+- [ ] Fai compiti di laboratorio del modellazione e analizi di software
+
+## Martedi
+- [ ] 
+
 ## Mercoledi
-- [X] Impari C# (classi, interfacсe)
-- [X] Impari Formi
 
 ## Gioverdi
-- [X] Impari ricerca di operazioni (cosa io non ho studiato)
 
 ## Venerdi
-- [X] Fai compiti di laboratorio per ricerca di operazioni
-- [ ] Fai compiti di laboratorio per programmazione su L'Internet
-- [ ] Impari teoria per Reti Internet
 
 ## Sabato
-- [X] Impari teoria C# (OOP)
-- [ ] Fai startapi
-- [ ] Studi gramatica del l'italiano (Averbi di tempo)
 
 ## Domenica
-- [ ] Fai ombre in applicazione del computer graphica
-- [ ] Impari teoria JavaScript 
-- [ ] Impari gramatica del l'italiano (devo, volio, ...)
