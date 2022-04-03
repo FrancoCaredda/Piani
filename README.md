@@ -13,7 +13,7 @@
 - [ ] Impari teoria per Reti Internet
 
 ## Sabato
-- [ ] Impari teoria C# (delegati, eventi)
+- [X] Impari teoria C# (OOP)
 - [ ] Fai startapi
 - [ ] Studi gramatica del l'italiano (Averbi di tempo)
 
