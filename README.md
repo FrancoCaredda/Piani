@@ -14,7 +14,7 @@
 
 ## Gioverdi
 - [X] Impari algoritmo combinatorio in ricerca di operazioni
-- [ ] Finisci analizi di software
+- [X] Finisci analizi di software
 - [ ] Finisci il quarto laboratorio di programazione sul internet
 ## Venerdi
 
