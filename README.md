@@ -20,6 +20,6 @@
 
 ## Sabato
 - [ ] Fai terzo laboratorio per organizatizione di l'Internet
-- [ ] Fai quarto laboratorio per organizatizione di l'Internet
 - [ ] Finisci prima pagina di sito
 ## Domenica
+- [ ] Fai quarto laboratorio per organizatizione di l'Internet
