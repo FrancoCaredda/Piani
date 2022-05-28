@@ -1,12 +1,12 @@
 # DOMENICA
-##Reti di l'Internet
+## Reti di l'Internet
 - [ ] Fai laboratorio
-##Ricerca di operazioni
+## Ricerca di operazioni
 - [ ] Impari algoritmo GOMORI-HU
 - [ ] Realizai algoritmo GOMORI-HU
-##Analizi di Software
+## Analizi di Software
 - [ ] Fai il quinto laboratorio
-##Programazione in l'Internet
+## Programazione in l'Internet
 - [ ] Fai data validazione
 - [ ] Crea database
 - [ ] Crea sistema di acconti
